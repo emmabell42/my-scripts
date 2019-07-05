@@ -1,0 +1,3 @@
+./PE125/6408_R1_trimmed_125.bam
+./PE126/6408_R1_trimmed_126.bam
+./PE127/6408_R1_trimmed_127.bam
